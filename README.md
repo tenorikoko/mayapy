@@ -1,0 +1,2 @@
+# mayapy
+python for maya
